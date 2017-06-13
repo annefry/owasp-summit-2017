@@ -12,7 +12,7 @@ location        : Villa-2
 room-layout     : unknown
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen, Anne Fry
 invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
